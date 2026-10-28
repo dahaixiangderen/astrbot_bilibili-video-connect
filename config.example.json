@@ -1,0 +1,11 @@
+{
+  "cli_path": "C:/tools/dsh-video-storyboard/bin/storyboard.mjs",
+  "node_path": "",
+  "ffmpeg_dir": "C:/tools/ffmpeg/bin",
+  "cookie_file": "C:/tools/bilibili-cookie.txt",
+  "cells": 9,
+  "max_video_mb": 300,
+  "max_duration_s": 1800,
+  "cli_timeout_s": 240,
+  "enable_bilibili": true
+}

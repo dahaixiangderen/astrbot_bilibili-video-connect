@@ -1,0 +1,6 @@
+name: astrbot_plugin_video_storyboard
+display_name: 视频分镜（让她真的看视频）
+desc: 收到视频或 B 站链接时，用 dsh-video-storyboard 抽成一张分镜图 + 逐格时间轴交给模型，一张图约 384 tokens。
+version: 1.0.0
+author: dahaixiangderen
+repo: https://github.com/dahaixiangderen/astrbot_bilibili-video-connect
